@@ -1,3 +1,3 @@
 <h1>Sistema Registracion</h1>
 Proyecto en Construccion...
-
+Sistema Registracion
